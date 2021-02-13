@@ -43,9 +43,9 @@ Windows 操作系统下的 ADB 环境配置
 下载官方TWRP应用程序Official TWRP App（需要root）  
 下载TWRP Manager.apk后安装，首先授予Root权限，然后选择自己设备后会自动下载相应刷机包，根据提示进行操作即可。  
 
-[TWRP官方网站](https://twrp.me/) 
-[橙狐REC官方网站](https://sourceforge.net/projects/orangefox/files/)
-[LR.Team修改版 覆盖大部分机型 ](https://t.me/xiaomi6666/43584)  
+[TWRP官方网站](https://twrp.me/)    
+[橙狐REC官方网站](https://sourceforge.net/projects/orangefox/files/)     
+[LR.Team修改版 覆盖大部分机型 ](https://t.me/xiaomi6666/43584)      
 （如果没有你的机型REC，可以尝试去酷安、MIUI论坛、xda论坛，谷歌找找）  
 
 ③**在twrp中安装你想要使用的刷机包**  
