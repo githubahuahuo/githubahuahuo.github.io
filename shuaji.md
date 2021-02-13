@@ -19,10 +19,10 @@ twrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Reco
 TWRP（Team Win Recovery Project）是一款非常强大的Recovery刷机工具。刷机有风险，操作之前请备份重要数据。  
 
 方法一： fastboot刷TWRP   
-	去TWRP官网下载TWRP安装文件https:/twrp.me/Devices/
-选择你需要刷入TWRP的设备，然后下载相应的刷机文件，比如选择的是Xiaomi Mi 5， twrp-3.5.0_9-0-gemini.img.
-	根据您的操作系统下载SDK平台工具[platform-tools](https://developer.android.com/studio/releases/platform-tools)
-Windows 操作系统下的 ADB 环境配置
+	TWRP官网下载TWRP安装文件]https:/twrp.me/Devices/  
+选择你需要刷入TWRP的设备，然后下载相应的刷机文件，比如选择的是Xiaomi Mi 5， twrp-3.5.0_9-0-gemini.img.  
+	根据您的操作系统下载SDK平台工具[platform-tools](https://developer.android.com/studio/releases/platform-tools)  
+Windows 操作系统下的 ADB 环境配置  
 
 1.进入fastboot
 在控制台下进入已下载TWRP刷机包的目录，键入命令：adb reboot bootloaderadb reboot bootloader 也可在开机时，同时按住电源键+音量减，进入fastboot（不同的手机进入方式稍微有所差别）
