@@ -7,10 +7,11 @@
 
 前言    
 一、recovery  
- recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。
+ recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。     
 
 二、twrp    
-twrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recoverytwrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recovery Project。TWRP的主要作用包括刷机，备份，恢复等1。通过编译适配，可以让大多数的手机/平板用上该recovery，该recovery的最大特点就是支持触屏，界面友好，功能强大，是刷机不可缺少的工具。  
+twrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recoverytwrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recovery Project。TWRP的主要作用包括刷机，备份，恢复等1。通过编译适配，可以让大多数的手机/平板用上该recovery，该recovery的最大特点就是支持触屏，界面友好，功能强大，是刷机不可缺少的工具。    
+
 三、LR.Team定制版TWRP  
  LR.Team是由熟悉制作安卓Rom和REC的开发人员组成的非盈利性团队，本期主要用前MIUI论坛呵呵105适配的recovery作为教程，他跟微博“Wz5x150”是同一人，W大已为小米50余款机型适配定制版TWRP，目前他主要在微博更新，后续可能会入驻新社区。  
 教程  
