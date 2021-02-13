@@ -69,7 +69,7 @@ Windows 操作系统下的 ADB 环境配置
 [XDA ROM交流论坛](https://www.xda-developers.com/)  
 
 其他版本MIUI:  
-[欧版](https://xiaomi.eu/community/threads/20-7-2.56447)）  
+[欧版](https://xiaomi.eu/community/threads/20-7-2.56447)  
 [波兰版](https://miuipolska.pl/download/)  
 [国际版](https://c.mi.com/miuidownload/index)  
 
