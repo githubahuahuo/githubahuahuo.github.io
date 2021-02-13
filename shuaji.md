@@ -1,9 +1,9 @@
 #安卓刷机  
 
 **刷机步骤**:  
-①**解锁**，注意是bootloader锁，不是id锁（某些厂商还需要申请解锁码才可以）(https://www.miui.com/thread-10101861-1-1.html)
+①**解锁**[TOC]，注意是bootloader锁，不是id锁（某些厂商还需要申请解锁码才可以）(https://www.miui.com/thread-10101861-1-1.html)
 
-②**刷第三方REC** 
+②**刷第三方REC**[TOC] 
 
 <center>**前言**</center>       
 一、recovery  
@@ -48,7 +48,7 @@ Windows 操作系统下的 ADB 环境配置
 [LR.Team修改版 覆盖大部分机型 ](https://t.me/xiaomi6666/43584)      
 （如果没有你的机型REC，可以尝试去酷安、MIUI论坛、xda论坛，谷歌找找）  
 
-③**在twrp中安装你想要使用的刷机包**  
+③**在twrp中安装你想要使用的刷机包**[TOC]  
 原厂系统第一次刷第三方系统 ，建议在清除里格式化data分区（会清空手机存储）一遍再刷系统，减少不确定因素的影响。注意格式化data分区后需要重启，然后重新进入rec，由电脑导入刷机包，然后刷机
 
 原生系统  
