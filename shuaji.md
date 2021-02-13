@@ -5,7 +5,7 @@
 
 ②**刷第三方REC** 
 
-<center>前言</center>       
+<center>**前言**</center>       
 一、recovery  
  recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。     
 
@@ -15,7 +15,7 @@ twrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Reco
 三、LR.Team定制版TWRP  
  LR.Team是由熟悉制作安卓Rom和REC的开发人员组成的非盈利性团队，本期主要用前MIUI论坛呵呵105适配的recovery作为教程，他跟微博“Wz5x150”是同一人，W大已为小米50余款机型适配定制版TWRP，目前他主要在微博更新，后续可能会入驻新社区。 
  
-**教程**  
+<center>**教程**</center>  
 TWRP（Team Win Recovery Project）是一款非常强大的Recovery刷机工具。刷机有风险，操作之前请备份重要数据。  
 
 方法一： fastboot刷TWRP   
