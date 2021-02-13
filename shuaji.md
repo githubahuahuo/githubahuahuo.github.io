@@ -73,4 +73,4 @@ Windows 操作系统下的 ADB 环境配置
 [波兰版](https://miuipolska.pl/download/)  
 [国际版](https://c.mi.com/miuidownload/index)  
 
-视频教程  
+[视频教程](https://b23.tv/9cU72T)  
