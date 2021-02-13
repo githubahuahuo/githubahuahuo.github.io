@@ -6,7 +6,7 @@
 
 前言    
 一、recovery  
- recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。     
+ recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。  
 二、twrp    
 twrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recoverytwrp是由teamwin以及omni开源的第三方recovery，全名是：TeamWin Recovery Project。TWRP的主要作用包括刷机，备份，恢复等1。通过编译适配，可以让大多数的手机/平板用上该recovery，该recovery的最大特点就是支持触屏，界面友好，功能强大，是刷机不可缺少的工具。  
 三、LR.Team定制版TWRP  
@@ -47,26 +47,26 @@ LR.Team修改版（覆盖大部分机型 (https://t.me/xiaomi6666/43584）
 ③在twrp中安装你想要使用的刷机包
 原厂系统第一次刷第三方系统 ，建议在清除里格式化data分区（会清空手机存储）一遍再刷系统，减少不确定因素的影响。注意格式化data分区后需要重启，然后重新进入rec，由电脑导入刷机包，然后刷机
 
-原生系统
-AEX: https://downloads.aospextended.com/ 
-pixel: https://download.pixelexperience.org/ 
-lineageos: https://download.lineageos.org/ 
-魔趣: https://download.mokeedev.com/ 
-havoc: https://sourceforge.net/projects/havoc-os/files/ 
-RR:https://get.resurrectionremix.com/
-omni: https://www.omnirom.org/
-dotOS：https://www.droidontime.com
-GrapheneOS：https://grapheneos.org
-AOSP：https://www.aospextended.com/
-syberia：https://syberiaos.com/downloads
-RevengeOS：https://download.revengeos.com/
-Evolution-x:   https://evolution-x.org/
+原生系统  
+AEX: https://downloads.aospextended.com/   
+pixel: https://download.pixelexperience.org/    
+lineageos: https://download.lineageos.org/   
+魔趣: https://download.mokeedev.com/   
+havoc: https://sourceforge.net/projects/havoc-os/files/   
+RR:https://get.resurrectionremix.com/  
+omni: https://www.omnirom.org/  
+dotOS：https://www.droidontime.com  
+GrapheneOS：https://grapheneos.org  
+AOSP：https://www.aospextended.com/  
+syberia：https://syberiaos.com/downloads  
+RevengeOS：https://download.revengeos.com/  
+Evolution-x:   https://evolution-x.org/  
 
-XDA ROM交流论坛：https://www.xda-developers.com/
+XDA ROM交流论坛：https://www.xda-developers.com/  
 
-其他版本MIUI:
-欧版:https://xiaomi.eu/community/threads/20-7-2.56447/
-波兰版:https://miuipolska.pl/download/
-国际版：https://c.mi.com/miuidownload/index
+其他版本MIUI:  
+欧版:https://xiaomi.eu/community/threads/20-7-2.56447/  
+波兰版:https://miuipolska.pl/download/  
+国际版：https://c.mi.com/miuidownload/index  
 
-视频教程
+视频教程  
