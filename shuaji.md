@@ -5,7 +5,7 @@
 
 ②**刷第三方REC** 
 
-<center>前言<center>       
+<center>前言</center>       
 一、recovery  
  recovery翻译成中文的意思是”恢复“，一般我们会简称为REC，recovery是一个可以对安卓机内部的数据或系统进行修改的模式，类似于windows PE或DOS。MIUI目前内置了一个功能比较单一的REC，本期主要讲讲如何刷入三方recovery，解锁更多功能。     
 
