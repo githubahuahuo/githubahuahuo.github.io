@@ -48,25 +48,25 @@ LR.Team修改版（覆盖大部分机型 (https://t.me/xiaomi6666/43584）
 原厂系统第一次刷第三方系统 ，建议在清除里格式化data分区（会清空手机存储）一遍再刷系统，减少不确定因素的影响。注意格式化data分区后需要重启，然后重新进入rec，由电脑导入刷机包，然后刷机
 
 原生系统  
-AEX: (https://downloads.aospextended.com/)   
-pixel: https://download.pixelexperience.org/    
-lineageos: https://download.lineageos.org/   
-魔趣: https://download.mokeedev.com/   
-havoc: https://sourceforge.net/projects/havoc-os/files/   
-RR:https://get.resurrectionremix.com/  
-omni: https://www.omnirom.org/  
-dotOS：https://www.droidontime.com  
-GrapheneOS：https://grapheneos.org  
-AOSP：https://www.aospextended.com/  
-syberia：https://syberiaos.com/downloads  
-RevengeOS：https://download.revengeos.com/  
-Evolution-x:   https://evolution-x.org/  
+[AEX](https://downloads.aospextended.com/)   
+[pixel](https://download.pixelexperience.org/)    
+[lineageos](https://download.lineageos.org/)   
+[魔趣](https://download.mokeedev.com/)    
+[havoc](https://sourceforge.net/projects/havoc-os/files/)   
+[RR](https://get.resurrectionremix.com/)  
+[omni](https://www.omnirom.org/)  
+[dotOS](https://www.droidontime.com)  
+[GrapheneOS](https://grapheneos.org)  
+[AOSP](https://www.aospextended.com/)  
+[syberia](https://syberiaos.com/downloads)  
+[RevengeOS](https://download.revengeos.com/)  
+[Evolution-x](https://evolution-x.org/)  
 
-XDA ROM交流论坛：https://www.xda-developers.com/  
+[XDA ROM交流论坛](https://www.xda-developers.com/)  
 
 其他版本MIUI:  
-欧版:https://xiaomi.eu/community/threads/20-7-2.56447/  
-波兰版:https://miuipolska.pl/download/  
-国际版：https://c.mi.com/miuidownload/index  
+[欧版](https://xiaomi.eu/community/threads/20-7-2.56447)）  
+[波兰版](https://miuipolska.pl/download/)  
+[国际版](https://c.mi.com/miuidownload/index)  
 
 视频教程  
